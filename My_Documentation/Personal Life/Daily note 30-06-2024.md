@@ -1,0 +1,1 @@
+-Today I failed completely in all areas of my life. I abandoned myself, I abandoned those who trust me, I abandoned all the promises I made to myself. I failed as i have never failed before, I am at the lowest point i have ever been, inside me there is only regret, sadness,despair, fear, yet for some reason I feel hope within myself.

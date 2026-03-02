@@ -1,0 +1,9 @@
+{
+  "baseFontSize": 24,
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "CaskaydiaCove Nerd Font",
+  "accentColor": "#40381c",
+  "cssTheme": "Catppuccin",
+  "theme": "obsidian",
+  "textFontFamily": "Patrick Hand"
+}

@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "00da97c106e93822",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac78d015203c05cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6a24f17a8e9cb7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My_Documentation/Linux/TOMCAT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TOMCAT"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bdae614cf6cff60d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a8c68375b8bff4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ec706b5ff8fa692",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dcdaf9bd123c83c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8c7cbf94b14a44e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ac19746ccda5e537",
+    "type": "split",
+    "children": [
+      {
+        "id": "aea51b8e9f264d82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ee0293441d9a75e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "My_Documentation/Linux/TOMCAT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TOMCAT"
+            }
+          },
+          {
+            "id": "28bad5e160a4aad6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "My_Documentation/Linux/TOMCAT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TOMCAT"
+            }
+          },
+          {
+            "id": "b6eb8439b0d2fb8b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e3b969f1807ce068",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "My_Documentation/Linux/TOMCAT.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TOMCAT"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8ec706b5ff8fa692",
+  "lastOpenFiles": [
+    "README.md",
+    "My_Documentation/Linux/APACHE.md",
+    "My_Documentation/Linux/Useful Commands.md",
+    "My_Documentation/Linux/TOMCAT.md",
+    "My_Documentation/University/Web Programming/php/User Permissions.md",
+    "My_Documentation/University/Web Programming/php/Untitled.md",
+    "My_Documentation/University/Web Programming/css/position.md",
+    "My_Documentation/University/Web Programming/css/background-image.md",
+    "My_Documentation/Obsidian/Plugins.md",
+    "My_Documentation/Personal Life/Daily note 24-06-2024.md",
+    "My_Documentation/Untitled",
+    "My_Documentation/Obsidian"
+  ]
+}

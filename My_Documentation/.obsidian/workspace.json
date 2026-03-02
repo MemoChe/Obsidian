@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "6f8ddfeb3b6ca115",
+    "type": "split",
+    "children": [
+      {
+        "id": "49b583c7afafb6c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8167cd0611f435a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/TOMCAT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09b22513222f1842",
+    "type": "split",
+    "children": [
+      {
+        "id": "9809c62fb0f87f4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9df2429eb38585a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98cd63b87d4ec9af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d1394da4755e463",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "af2e73c417a0cf59",
+    "type": "split",
+    "children": [
+      {
+        "id": "db5430f639ad48f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1dc668276cf9623",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux/TOMCAT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4c910f0598ef105",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux/TOMCAT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "212cc97d28d572c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "02aa0071a359a724",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux/TOMCAT.md"
+              }
+            }
+          },
+          {
+            "id": "84c5c1d906852e19",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "c8167cd0611f435a",
+  "lastOpenFiles": [
+    "DATABASE/CREATING AND DELETING A TABLE.md",
+    "DATABASE/UPDATE.md",
+    "Pasted image 20240731183719.png",
+    "Pasted image 20240731183557.png",
+    "DATABASE/proyectoTI.md",
+    "Linux/Useful Commands.md",
+    "Obsidian/Plugins.md",
+    "Personal Life/Daily note 24-06-2024.md",
+    "University/backend/MYSQL/ROLLUP.md",
+    "University/backend/MYSQL/GROUP BY.md",
+    "Linux/LAMP.md",
+    "University/backend/MYSQL",
+    "University/backend/MYSQL.md",
+    "University/backend",
+    "University/Web Programming/Untitled",
+    "University/Web Programming/php/User Permissions.md",
+    "Personal Life/READ EVERY DAY.md",
+    "University/Web Programming/php",
+    "Personal Life/Daily note 25-06-2024.md",
+    "Personal Life/Daily note 26-06-2024.md",
+    "University/Web Programming/css/position.md",
+    "University/Web Programming/css/background-image.md",
+    "Personal Life/LIFE PLAN.md",
+    "University/html.md",
+    "Linux",
+    "University/xd.md",
+    "University/images/Pasted image 20240624194942.png",
+    "University/images/Pasted image 20240624173116.png",
+    "University/images/Pasted image 20240624172840.png",
+    "University/images/Pasted image 20240624172713.png",
+    "University/images/Pasted image 20240624172547.png",
+    "University/images/Pasted image 20240624171950.png",
+    "University/images/Pasted image 20240624171639.png",
+    "University/images/Pasted image 20240624170830.png",
+    "University/images",
+    "University/Web Programming/css/Untitled",
+    "University/Web Programming/css/Untitled.canvas",
+    "University/Web Programming/css.md",
+    "University/Web Programming/css",
+    "University/My first day in the university.md",
+    "University/Web Programming",
+    "python.md",
+    "University/code.cpp.md",
+    "Excalidraw/Drawing 2024-06-24 13.30.57.excalidraw.md",
+    "University/Drawing 2024-06-24 13.27.24.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-24 13.20.43.excalidraw.md",
+    "Untitled.canvas",
+    "Excalidraw"
+  ]
+}
