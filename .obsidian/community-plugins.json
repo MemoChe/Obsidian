@@ -3,5 +3,6 @@
   "code-emitter",
   "obsidian-git",
   "mcp-tools",
-  "obsidian-local-rest-api"
+  "obsidian-local-rest-api",
+  "obsidian-latex-suite"
 ]
