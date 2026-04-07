@@ -1,5 +1,7 @@
 [
   "obsidian-vimrc-support",
   "code-emitter",
-  "obsidian-git"
+  "obsidian-git",
+  "mcp-tools",
+  "obsidian-local-rest-api"
 ]
